@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hey there 👋
+
+I’m an aspiring Cloud Engineer who enjoys building real-world cloud and data-driven applications. I focus on scalable systems, AWS services, and practical problem-solving.
+
+Currently, I’m working on cloud-based data processing projects and improving my system architecture skills. I believe the best way to learn cloud is by building and deploying.
+
+I’m deepening my knowledge of AWS core services such as EC2, S3, IAM, VPC, and RDS. I’m also learning cloud security, high availability design, and Docker to deepen my DevOps foundation.
+
+My goal is to grow into a Cloud Engineer role where I can design secure, reliable, and scalable infrastructure.
+
+Outside of tech, I enjoy reading, spending time with my cats, and following structured routines. Curiosity is at the core of how I approach learning and continuous growth.
 
 <!--
 **Manasvi154/Manasvi154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
