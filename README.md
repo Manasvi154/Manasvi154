@@ -1,12 +1,12 @@
 ## Hey there 👋
 
-I’m an aspiring Cloud Engineer who enjoys building real-world cloud and data-driven applications. I focus on scalable systems, AWS services, and practical problem-solving.
+I’m an aspiring Data Analyst and AI enthusiast who enjoys building real-world data-driven applications and solving practical problems through analytics and technology.
 
-Currently, I’m working on cloud-based data processing projects and improving my system architecture skills. I believe the best way to learn cloud is by building and deploying.
+Currently, I’m working on AI and data analytics projects involving Python, SQL, dashboards, and data processing workflows. I enjoy turning raw data into meaningful insights and continuously improving my analytical thinking through hands-on projects.
 
-I’m deepening my knowledge of AWS core services such as EC2, S3, IAM, VPC, and RDS. I’m also learning cloud security, high availability design, and Docker to deepen my DevOps foundation.
+I’m deepening my knowledge of data analysis, visualization, and business intelligence while also exploring cloud technologies like AWS to better understand scalable data systems and deployment workflows.
 
-My goal is to grow into a Cloud Engineer role where I can design secure, reliable, and scalable infrastructure.
+I primarily work with Python and SQL, and use tools such as Pandas, NumPy, Flask, Git, and GitHub in my development process. My goal is to grow into a Data Analyst role where I can combine analytical thinking, problem-solving, and technology to create impactful solutions.
 
 Outside of tech, I enjoy reading, spending time with my cats, and following structured routines. Curiosity is at the core of how I approach learning and continuous growth.
 
