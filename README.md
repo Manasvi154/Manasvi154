@@ -3,7 +3,7 @@
 I build data analysis and BI projects that turn raw data into decisions, and I'm actively 
 applying for Data Analyst and cloud-support roles.
 
-**[Resume](https://github.com/Manasvi154/Manasvi154/blob/main/Manasvi_Pawar_Resume%20(analyst).pdf)** · ** [LinkedIn](https://linkedin.com/in/manasvi-pawar-)**
+[Resume](https://github.com/Manasvi154/Manasvi154/blob/main/Manasvi_Pawar_Resume%20(analyst).pdf)** · ** [LinkedIn](https://linkedin.com/in/manasvi-pawar-)**
 
 ---
 
