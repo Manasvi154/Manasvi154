@@ -1,26 +1,40 @@
-## Hey there 👋
+### Hi, I'm Manasvi — Data Analyst | Python, SQL, Power BI | AWS Certified
 
-I’m an aspiring Data Analyst and AI enthusiast who enjoys building real-world data-driven applications and solving practical problems through analytics and technology.
+I build data analysis and BI projects that turn raw data into decisions, and I'm actively 
+applying for Data Analyst and cloud-support roles.
 
-Currently, I’m working on AI and data analytics projects involving Python, SQL, dashboards, and data processing workflows. I enjoy turning raw data into meaningful insights and continuously improving my analytical thinking through hands-on projects.
+**[Resume](https://github.com/Manasvi154/Manasvi154/blob/main/Manasvi_Pawar_Resume%20(analyst).pdf)** · ** [LinkedIn](https://linkedin.com/in/manasvi-pawar-)**
 
-I’m deepening my knowledge of data analysis, visualization, and business intelligence while also exploring cloud technologies like AWS to better understand scalable data systems and deployment workflows.
+---
 
-I primarily work with Python and SQL, and use tools such as Pandas, NumPy, Flask, Git, and GitHub in my development process. My goal is to grow into a Data Analyst role where I can combine analytical thinking, problem-solving, and technology to create impactful solutions.
+### Top Projects
 
-Outside of tech, I enjoy reading, spending time with my cats, and following structured routines. Curiosity is at the core of how I approach learning and continuous growth.
+**[Bank Customer Churn Analysis](https://github.com/Manasvi154/Bank-Customer-Churn-Analysis)**
+Analyzed 10K bank customers using Python, SQL, and Power BI — found customers in Germany and 
+older customers were more likely to leave the bank.
 
-<!--
-**Manasvi154/Manasvi154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[E-Commerce Business Intelligence & Sales Analytics](https://github.com/Manasvi154/E-Commerce-Business-Intelligence-Sales-Analytics)**
+Built a 5-page Power BI dashboard on 100K+ records, tracking ₹13.59M in revenue with 25+ custom 
+DAX calculations. Used MySQL, Power Query, and DAX.
 
-Here are some ideas to get you started:
+**[Cloud AI Sales Data Analytics Pipeline](https://github.com/Manasvi154/cloud-ai-sales-data-analytics-pipeline)**
+Built a cloud pipeline to process and visualize sales data using Python, Flask, AWS S3, and 
+QuickSight.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+**Languages & Analysis:** Python (Pandas, Matplotlib, Seaborn), SQL (MySQL)
+**BI & Visualization:** Power BI, DAX, Power Query, Excel
+**Cloud:** AWS (EC2, S3, IAM, VPC, RDS)
+**Other:** Flask, Git/GitHub, Linux
+
+---
+
+### Certifications
+AWS Certified Cloud Practitioner · Google Analytics · Deloitte Data Analytics Job Simulation (Forage)
+
+---
+
+ Based in India — always open to connecting on data analytics or cloud projects.
