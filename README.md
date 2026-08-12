@@ -1,9 +1,8 @@
 ### Hi, I'm Manasvi — Data Analyst | Python, SQL, Power BI | AWS Certified
 
-I build data analysis and BI projects that turn raw data into decisions, and I'm actively 
-applying for Data Analyst and cloud-support roles.
+I build data analysis and BI projects that turn raw data into decisions, and I'm actively applying for Data Analyst roles.
 
-[Resume](https://github.com/Manasvi154/Manasvi154/blob/main/Manasvi_Pawar_Resume%20(analyst).pdf)** · ** [LinkedIn](https://linkedin.com/in/manasvi-pawar-)**
+[Resume](https://github.com/Manasvi154/Manasvi154/blob/main/Manasvi_Pawar_Resume%20(analyst).pdf) ·  [LinkedIn](https://linkedin.com/in/manasvi-pawar-)
 
 ---
 
@@ -25,10 +24,10 @@ QuickSight.
 
 ### Tech Stack
 
-**Languages & Analysis:** Python (Pandas, Matplotlib, Seaborn), SQL (MySQL)
-**BI & Visualization:** Power BI, DAX, Power Query, Excel
-**Cloud:** AWS (EC2, S3, IAM, VPC, RDS)
-**Other:** Flask, Git/GitHub, Linux
+- **Languages & Analysis:** Python (Pandas, Matplotlib, Seaborn), SQL (MySQL)
+- **BI & Visualization:** Power BI, DAX, Power Query, Excel
+- **Cloud:** AWS (EC2, S3, IAM, VPC, RDS)
+- **Other:** Flask, Git/GitHub, Linux
 
 ---
 
